@@ -28,7 +28,15 @@ justify-content: space-around;
 .me{
     text-align: center;
     font-family: sans-serif;
+    padding: 60px 0;
 }
 .title{
     text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.done{
+    align-self: center;
 }
