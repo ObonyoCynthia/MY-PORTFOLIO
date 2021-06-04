@@ -1,6 +1,10 @@
 body{
     background-color: chartreuse;
 }
+.profile{
+padding: 50px;
+}
+
 .aboutme{
     text-align: center;
     background-color: rgb(0, 0, 255);
@@ -12,4 +16,7 @@ body{
 }
 .copy{
     padding-top: 50px;
+}
+.me{
+    text-align: center;
 }
