@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+}
+
 .profile{
 padding: 50px;
 display: flex;
@@ -5,7 +9,7 @@ justify-content: space-around;
 
 }
 .Be{
-    background-color: cyan;
+    background-color:#252308;
 }
 .image{
     width: 400px;
@@ -15,7 +19,7 @@ justify-content: space-around;
 
 .aboutme{
     text-align: center;
-    background-color: rgb(0, 0, 255);
+    background-color: #252308;
     padding: 60px;
 
 }
@@ -27,15 +31,21 @@ justify-content: space-around;
     text-align: center;
     font-family: sans-serif;
     padding: 60px 0;
+    background-color: #252308;
+    color: khaki;
+
 }
 .title{
     text-align: center;
+    color: cornsilk;
+
 }
 .container{
     display: flex;
     justify-content: space-around;
-    background-color: chocolate;
+    background-color:  #252308;
 }
 .done{
     align-self: center;
+    color: thistle;
 }
