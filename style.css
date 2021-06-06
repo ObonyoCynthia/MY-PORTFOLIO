@@ -53,7 +53,7 @@ justify-content: space-around;
     color: black;
 }
 .obonyo{
-    opacity: 0.3;
+    opacity: 0.2;
 }
 .projects{
     padding: 3rem 0;
@@ -61,4 +61,7 @@ justify-content: space-around;
 .kitchen{
     padding: 3rem 0;
     line-height: 1.3rem;
+}
+.copy{
+    opacity: 0.3;
 }
